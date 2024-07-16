@@ -1,0 +1,27 @@
+p{
+    font-style: italic;
+}
+
+.navbar{
+    display: inline;
+    font-size: larger;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+
+header{
+    background-color: gainsboro;
+    border: 5px groove black;
+}
+.main{
+    background-color: cadetblue;
+}
+.bottom{
+    background-color: gray;
+    border: 2px dotted violet ;
+}
+body{
+    background-color: honeydew;
+}
